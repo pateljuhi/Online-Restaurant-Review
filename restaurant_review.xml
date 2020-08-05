@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <restaurants xmlns="http://www.algonquincollege.com/onlineservice/reviews"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        > -->
+<restaurants>
+        <restaurant>
+            <name>Laughing Man</name>
+            <logo>"Visit the Laughing Man"</logo>
+            <image>
+                <name>laughing-man.gif</name>
+                <dimension type="pixels">
+                    <width>50 </width>
+                    <height>200 </height>
+                </dimension>
+            </image>
+            <location> <address> 2100 Lakeview Road</address>
+                <city>Kanata</city>
+                <province>Ontario</province>
+                <post_code>K2K 2K7</post_code>
+            </location>
+            <phone>
+                <area_code>613</area_code>
+                <number>123-4567</number>
+            </phone>
+            <rating max="5" min="1">3</rating>
+            <date>
+                <month>January</month>
+                <day>10</day>
+                <year>2015</year>
+            </date>
+            <reviewer>Hunter S. Thompson</reviewer>
+            <summary>  Laughing Man Inn is a completely restored Victorian hotel, and offers a warm and elegant atmosphere and gracious service.</summary>
+            <menu>
+                <appetizers>
+                    <appetizer>
+                        <name>Crab cakes with a creamy dill sauce served with crispy herbed fries. </name>
+                        <price currency="cad" quantity="1">23</price>
+                    </appetizer>
+                    <appetizer>
+                        <name>Garden vegetable soup with chocolate sauce. </name>
+                        <price currency="cad" quintity="1">15</price>
+                    </appetizer>
+                </appetizers>
+                <entrees>
+                    <food>
+                        <name>Braised jumbo sea scallops on a sun-dried roast tomato base.</name>
+                        <price currency="cad">39</price>
+                    </food>
+                    <food>
+                        <name>Free-range chicken breast stuffed with morels in a brandy sauce. </name>
+                        <price currency="cad">31</price>
+                    </food>
+                    <food>
+                        <name>Roast pork loin on a bed of garlic ginger apple slaw. </name>
+                        <price currency="cad">34</price>
+                    </food>
+                </entrees>
+            </menu>
+        </restaurant>
+        <restaurant>
+            <name>Gong’s Asian Cuisine</name>
+            <logo/>
+            <image>
+                <name>gong-asian-cuisine.gif</name>
+                <dimension type="pixels">
+                    <width>150 </width>
+                    <height>250 </height>
+                </dimension>
+            </image>
+            <location> <address>1385 Woodroffe Avenue</address>
+                <city>Ottawa</city>
+                <province>Ontario</province>
+                <post_code> K2G 1V8</post_code>
+            </location>
+            <phone>
+                <area_code>613</area_code>
+                <number>727-4723</number>
+            </phone>
+            <rating max="5" min="1">4</rating>
+            <date>
+                <month>January</month>
+                <day>10</day>
+                <year>2015</year>
+            </date>
+            <reviewer>Brenda P. Smith</reviewer>
+            <summary>The food is always consistent. A good variety of dim sum, sushi, Chinese and even Vietnamese dishes. The service is quick and the food is plentiful. We sat down last night and within seconds of turning in our first order, the plates were on the table! The teriyaki dishes had the right amount of sauce and weren't sickeningly sweet. The chicken, fish, and beef were perfectly cooked. The maki-rolls were neatly rolled, cut properly and seasoned well. Loved the General Tao chicken, the steamed BBQ pork buns, the eel sushi and the lovely eggplant. We will be going back again! I would highly recommend it.</summary>
+            <menu>
+                <appetizers>
+                    <appetizer>
+                        <name>Egg Roll </name>
+                        <price currency="cad" quantity="12">15.00 </price>
+                        <price currency="cad" quantity="1">1.50</price>
+                    </appetizer>
+                    <appetizer>
+                        <name>Spring Roll / Each </name>
+                        <price currency="cad" quantity="12">18</price>
+                        <price currency="cad" quantity="1">1.80</price>
+                    </appetizer>
+                    <appetizer>
+                        <name>Shrimp Chips </name>
+                        <price currency="cad" quantity="1">2.50</price>
+                    </appetizer>
+                    <appetizer>
+                        <name>Fried Noodles </name>
+                        <price currency="cad" quantity="1">1.00</price>
+                    </appetizer>
+                    <appetizer>
+                        <name>Sweet &amp; Sour Fried Wonton Skin </name>
+                        <price currency="cad" quantity="12">3.50</price>
+                    </appetizer>
+                </appetizers>
+                <entrees>
+                    <food>
+                        <name>Scallops with Vegetables </name>
+                        <price currency="cad">14.95</price>
+                    </food>
+                    <food>
+                        <name>Sweet and Sour Fish Cantonese Style</name>
+                        <price currency="cad">13.95</price>
+                    </food>
+                    <food>
+                        <name>Shrimps with Vegetables </name>
+                        <price currency="cad">12.95</price>
+                    </food>
+                    <food>
+                        <name>Beef with Mushroom </name>
+                        <price currency="cad">10.25</price>
+                    </food>
+                    <food>
+                        <name>Beef with Tomato </name>
+                        <price currency="cad">10.25</price>
+                    </food>
+                    <food>
+                        <name>Beef with Broccoli </name>
+                        <price currency="cad">10.25</price>
+                    </food>
+                </entrees>
+            </menu>
+        </restaurant>
+    </restaurants>
